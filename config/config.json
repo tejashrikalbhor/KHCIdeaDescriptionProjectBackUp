@@ -1,0 +1,24 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Admin@123",
+    "database": "mysql_khc_db",
+    "port":3306,
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Admin@123",
+    "database": "mysql_khc_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password":"Admin@123",
+    "database": "mysql_khc_db",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
